@@ -22,5 +22,5 @@ Python, Django, React, ReactNative, PostgreSQL, AWS
 
 # 논문 링크
 
-[논문]:http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07577996
+[논문링크][http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07577996]
 
