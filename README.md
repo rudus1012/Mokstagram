@@ -2,6 +2,8 @@
 
 학생들의 편의를 위해 ReactJS와 Django를 사용하여 Instagram을 모티브로 한 사진 기반의 교내 SNS를 제작 합니다. 제작하는 서비스는 간단한 회원가입과 Facebook을 연동한 로그인 서비스를 지원하며, 사진 기반의 SNS인 만큼 피드에 사진을 추가하여 회원들 간 소통할 수단으로 사용합니다. 또한 사진에 댓글과 좋아요 기능을 지원해 SNS의 기능을 완성합니다. 제안하는 서비스를 통해 불편했던 소통의 장을 만들어 교내 커뮤니티를 활성화 할 수 있는 SNS를 제공합니다.
 
+Campus Social Network Service Based on Web Framework
+
 # 시스템 구성도
 
 <img width="1181" alt="sns구성도" src="https://user-images.githubusercontent.com/43171179/101591117-18454980-3a2f-11eb-94b3-fbbb4e34c0f4.png">
