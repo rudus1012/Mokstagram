@@ -16,7 +16,7 @@
 Python, Django, React, ReactNative, PostgreSQL, AWS
 
 # 화면 예시
-https://user-images.githubusercontent.com/43171179/101595613-fe0f6980-3a36-11eb-9963-b661f49aba97.png
+<img width="1181" alt="sns화면" src="https://user-images.githubusercontent.com/43171179/101595613-fe0f6980-3a36-11eb-9963-b661f49aba97.png">
 
 # 논문 링크
 [논문]: http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07577996
