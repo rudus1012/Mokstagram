@@ -12,12 +12,12 @@
 * 데이터베이스 정보를 PostgreSQL을 통해 관리 하고, 확장 기능들은 AWS를 사용하여 관리합니다. 
 * 안정성을 위해 NAS를 통해 데이터를 백업 합니다.
 
-#사용 기술 및 환경
+# 사용 기술 및 환경
 Python, Django, React, ReactNative, PostgreSQL, AWS
 
-#화면 예시
+# 화면 예시
+https://user-images.githubusercontent.com/43171179/101595613-fe0f6980-3a36-11eb-9963-b661f49aba97.png
 
-
-#논문 링크
+# 논문 링크
 [논문]: http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07577996
 
